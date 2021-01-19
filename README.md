@@ -6,7 +6,7 @@
 	make sure you have added your own ssh-key to your github account.
 ---
 #### Start to synchronize and develop
-	1. Fork another repo on github to your own github account.
+	1. Fork our team project repo on github to your own github account.
 	2. Clone this forked repo from your own github account. (git clone)
 	3. Now you can see there is only a master branch on your local repo and you are on the master branch.
 	4. `git remote -v` to check origin repo if you have `upstream` configured.
