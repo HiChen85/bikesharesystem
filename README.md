@@ -10,16 +10,16 @@
 	2. Clone this forked repo from your own github account. (git clone)
 	3. Now you can see there is only a master branch on your local repo and you are on the master branch.
 	4. `git remote -v` to check origin repo if you have `upstream` configured.
-			if not do so, you will see:
-			```
-				origin  info of your own origin repo (fetch)
-				origin  info of your own origin repo (push)
-			```
-			if do so:
-			```
-				upstream  info of your own upstream repo (fetch)
-				upstream  info of your own upstream repo (push)
-			```
+	if not do so, you will see:
+	```
+		origin  info of your own origin repo (fetch)
+		origin  info of your own origin repo (push)
+	```
+	if do so:
+	```
+		upstream  info of your own upstream repo (fetch)
+		upstream  info of your own upstream repo (push)
+	```
 	5. `git remote add upstream https://github.com/HiChen85/bikesharesystem.git` to add upstream.
 	6. `git remote -v ` to check again.
 	7. when you done above processes, then you need to create a local dev branch because you only have master on your local repo.
