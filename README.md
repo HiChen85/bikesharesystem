@@ -11,12 +11,12 @@
 	3. Now you can see there is only a master branch on your local repo and you are on the master branch.
 	4. `git remote -v` to check origin repo if you have `upstream` configured.
 			if not do so, you will see:
-			```shell
+			```
 				origin  info of your own origin repo (fetch)
 				origin  info of your own origin repo (push)
 			```
 			if do so:
-			```shell
+			```
 				upstream  info of your own upstream repo (fetch)
 				upstream  info of your own upstream repo (push)
 			```
